@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @RyzenStyle
 - 👀 I’m interested in ----
 - 🌱 I’m currently learning Robotic process automation such as microsoft power automate and blueprism
-- 💞️ I’m looking to collaborate on
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me email me -----
+
 
 <!---
 RyzenStyle/RyzenStyle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
